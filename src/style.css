@@ -1,0 +1,118 @@
+body{
+    background-color: whitesmoke;
+}
+/* .heading{
+    
+padding: 5px;
+margin-top: 2px;
+border: 5px solid #ede3e3;
+background-color: #6d5882;
+color: white;
+border-radius: 40px;
+text-align: center;
+box-shadow: -2px 5px 19px #8f3838;
+}
+.heading h2{
+font-size: 31px;
+text-shadow: 4px 1px 2px black;
+}
+
+header img{
+height: 400px;
+margin-top: 5px;
+border-right: #8f3838 7px solid;
+border-left: darkgreen 7px solid;
+border-bottom: #8f3838 7px solid;
+border-top: darkgreen 7px solid;
+} */
+form{
+padding: 10px;
+background-image: url(../images/frmbg-1.jpg);
+background-size: cover;
+
+width: 100%;
+height: auto;
+color: white;
+
+}
+
+.room-bg{
+padding: 10px;
+background-image: url(../images/frm\ bg1.jpg);
+background-size: cover;
+background-position: bottom center;
+background-repeat:no-repeat;
+width: 100%;
+height: auto;
+}
+.ac-bg{
+padding: 10px;
+background-image: url(../images/slide--4.jpg);
+background-size: cover;
+background-position: bottom center;
+background-repeat:no-repeat;
+width: 100%;
+height: auto;
+}
+.card{
+box-shadow: 2px 3px 5px grey;
+}
+.card-footer{
+background-color: black;
+color: rgb(214, 162, 162);
+}
+.Reg-btn{
+padding: 25px;
+margin-left: 260px;
+} 
+.container-fluid{
+background-image: url(../images/hbg.jpg);
+background-size: cover;
+} 
+.social{
+position: fixed;
+top: 250px;
+right: 0px;
+
+
+
+
+}
+.social div{
+border: 3px white solid;
+color: red;
+border-radius: 10px;
+background-color: rgba(0, 0, 0, 0.9);
+
+}
+.social span{
+display: block;
+padding: 3px;
+box-shadow: 2px 3px 10px rgb(120, 99, 99);
+transition: 3s;
+
+
+}
+.social span:hover{
+box-shadow: 2px 20px 10px white;
+transition: 3s;
+}
+.modal-bg{
+background-image: url(../images/bill.jpg);
+background-size: cover;
+background-blend-mode: color-burn;
+color: #ede3e3;
+background-color: rgba(0, 0, 0, 0.5);
+font-family: Arial, Helvetica, sans-serif;
+letter-spacing: 2px;
+}
+#sun{
+background-image: url(../images/sun.jpg);
+background-size: cover;
+opacity: 0.5;
+color: black;
+
+}
+nav{
+margin-bottom: 80px;
+}
