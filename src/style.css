@@ -1,7 +1,7 @@
 body{
     background-color: whitesmoke;
 }
-/* .heading{
+.heading{
     
 padding: 5px;
 margin-top: 2px;
@@ -24,7 +24,7 @@ border-right: #8f3838 7px solid;
 border-left: darkgreen 7px solid;
 border-bottom: #8f3838 7px solid;
 border-top: darkgreen 7px solid;
-} */
+}
 form{
 padding: 10px;
 background-image: url(../images/frmbg-1.jpg);
@@ -106,13 +106,13 @@ background-color: rgba(0, 0, 0, 0.5);
 font-family: Arial, Helvetica, sans-serif;
 letter-spacing: 2px;
 }
-#sun{
+/* #sun{
 background-image: url(../images/sun.jpg);
 background-size: cover;
 opacity: 0.5;
 color: black;
 
-}
+} */
 nav{
 margin-bottom: 80px;
 }
